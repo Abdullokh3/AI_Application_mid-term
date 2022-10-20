@@ -10,3 +10,4 @@ Student ID: 12194900
 Name: Asatullaev Abdullokh
 
 
+https://github.com/Abdullokh3/AI_Application_mid-term/blob/main/week_7_Lab_2.ipynb
