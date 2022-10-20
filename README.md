@@ -8,5 +8,3 @@ University Honor Code:
 
 Student ID: 12194900
 Name: Asatullaev Abdullokh
-Professor: Mehdi Pirahandeh
-Course: AI Application System
