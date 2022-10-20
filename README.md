@@ -8,3 +8,6 @@ University Honor Code:
 
 Student ID: 12194900
 Name: Asatullaev Abdullokh
+
+
+week_7_Lab_1.ipynb
