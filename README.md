@@ -21,5 +21,6 @@ Actually this is the fourth lab session. In this lab session we learned how to g
 https://github.com/Abdullokh3/AI_Application_mid-term/blob/main/Week_5.ipynb
 This is this 5th week lab work. In this lab session we got a massive knowledge regarding basic mathematical operations for example we learned about adding, subtracting, multiplying and other things with the help of tensorflow. At the same time we learnt basically what is the tensorflow and computational graph, constants, placeholders and variables in the tensorflow as well as using some commands to find tensorboard visualization for example histogram and scalar modes. Mainly tensorflow is a library providing various kinds of operations and functionality for deep learning models. It's made of two terms: tanser means representation as a multidimensional array of data; flow means series of operations being performed on the tensor.
 
-
+week_6_Lab1_first_half.ipynb
+week_6_Lab1_2nd_half.ipynb
 This is 6th week lab first session. In this lab we learnt how to get data set plots as a line graph and we tried to add weight to the model as well as layer adding. First we started by installing the right version of tensorflow and then we imported the libraries, defined parameters, creating the data set of linear regression as well as graph plotting, model defining which we want to predict, define its optimizer implement cost function and initialize variables so that we execute the graph by the help of tensorflow session. Then we attempted to denoise an image from dataset by using some filters. 
