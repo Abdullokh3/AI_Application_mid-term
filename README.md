@@ -27,3 +27,6 @@ This is 6th week lab first session. In this lab we learnt how to get data set pl
 
 https://github.com/Abdullokh3/AI_Application_mid-term/blob/main/week_6_2nd_Lab.ipynb
 This is the second session of lab week 6. in this session we imported some data set of fashion mnist from collab. then we added specific layers for hidden as well as input, output. Batch, size of image and epochs were given then we had to add weight to all of them so that we created a computational graph. We made it possible using tensorflow API, providing five layers. Finally we could manage to plot original images.
+
+https://github.com/Abdullokh3/AI_Application_mid-term/blob/main/week_7_Lab_1.ipynb
+It is week 7 lab Session 1. We imported CIFAR10 data set using the pytorch API. we had to get the data from the dataset so we loaded it into a single batch then matplotlib was used as well as data loader so that we could draw an image plot.
