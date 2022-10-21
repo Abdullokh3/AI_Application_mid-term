@@ -24,3 +24,6 @@ This is this 5th week lab work. In this lab session we got a massive knowledge r
 https://github.com/Abdullokh3/AI_Application_mid-term/blob/main/week_6_Lab1_first_half.ipynb
 https://github.com/Abdullokh3/AI_Application_mid-term/blob/main/week_6_Lab1_2nd_half.ipynb
 This is 6th week lab first session. In this lab we learnt how to get data set plots as a line graph and we tried to add weight to the model as well as layer adding. First we started by installing the right version of tensorflow and then we imported the libraries, defined parameters, creating the data set of linear regression as well as graph plotting, model defining which we want to predict, define its optimizer implement cost function and initialize variables so that we execute the graph by the help of tensorflow session. Then we attempted to denoise an image from dataset by using some filters. 
+
+https://github.com/Abdullokh3/AI_Application_mid-term/blob/main/week_6_2nd_Lab.ipynb
+This is the second session of lab week 6. in this session we imported some data set of fashion mnist from collab. then we added specific layers for hidden as well as input, output. Batch, size of image and epochs were given then we had to add weight to all of them so that we created a computational graph. We made it possible using tensorflow API, providing five layers. Finally we could manage to plot original images.
