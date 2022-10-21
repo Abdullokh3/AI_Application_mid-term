@@ -17,3 +17,6 @@ Actually this is the fourth lab session. In this lab session we learned how to g
 • how to import files
 • how to load and unzip files
 • have to display the CVS file using the sklearn as well as installing packages
+
+
+This is this 5th week lab work. In this lab session we got a massive knowledge regarding basic mathematical operations for example we learn about adding, subtracting, multiplying and other things with the help of tensorflow. At the same time we learnt basically what is the tensorflow and computational graph, constants, placeholders and variables in the tensorflow as well as using some commands to find tensorboard visualization for example histogram and scalar modes. Mainly tensorflow is a library providing various kinds of operations and functionality for deep learning models. It's made of two terms: tanser means representation as a multidimensional array of data; flow means series of operations being performed on the tensor.
