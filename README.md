@@ -9,6 +9,8 @@ University Honor Code:
 Student ID: 12194900
 Name: Asatullaev Abdullokh
 
+https://github.com/Abdullokh3/AI_Application_mid-term/blob/main/week_5_before1.ipynb
+week_4
 
 https://github.com/Abdullokh3/AI_Application_mid-term/blob/main/week_5_before2.ipynb
 Actually this is the fourth lab session. In this lab session we learned how to get a CSV file from the given GitHub link. We also learned some essential codes that we use in order to display the CPU information as well as installing GPU. In general with the help of going through this lab, we got to know how to obtain data from various sources for example Kaggle, Google Drive or GitHub and so on. For instance we attempted to obtain mnist csv file from the kaggle. So as a conclusion these are the basic and different functions that we learned to perform in this lab:
